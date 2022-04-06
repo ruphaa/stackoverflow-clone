@@ -2,5 +2,5 @@
 
 ### Tech stack
 * React
-* Tailwind
 * Typescript
+* Tailwind
